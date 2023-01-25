@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **Fontur web**
 
-- 🌱 I’m currently learning **Angular, JavaScript, SQL, CI/CD, UI**
+- 🌱 I’m currently learning **Angular, JavaScript, SQL, CI/CD, React, MariaDB, PostgreSQL**
 
-- 👯 I’m looking to collaborate on **Documentation and development**
+- 👯 I’m looking to collaborate on **Web Development**
 
-- 🤝 I’m looking for help with **Angular projects**
+- 🤝 I’m looking for help with **Frontend and Backend**
 
 - 👨‍💻 All of my projects are available at [https://dulcey93.github.io/Portfolio/](https://dulcey93.github.io/Portfolio/)
 
-- 💬 Ask me about **HTML, CSS, Angular, JavaScript, SQL, CI/CD**
+- 💬 Ask me about **HTML, CSS, Angular, JavaScript, SQL, CI/CD, React**
 
 - 📫 How to reach me **dulcey93@outlook.com**
 
