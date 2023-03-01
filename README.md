@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Santiago Dulcey</h1>
-<h3 align="center">I am a Systems Engineer with a great interest in fullstack development, I have knowledge in software documentation and modeling in UML, also i have experience as Frontend Developer | HTML, CSS, SCSS, JavaScript, TypeScript, Angular, SQL. I'm Always improving.</h3>
+<h3 align="center">I am a Systems Engineer with a great interest in fullstack web development, I have knowledge in software documentation and modeling in UML, experience as Fullstack web developer | HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, Vue, React, Node, SQL, PostgreSQL... I'm Always improving.</h3>
 
-- 🔭 I’m currently working on **Fontur web**
+- 🔭 I’m currently working on **Campus Latinoamérica**
 
-- 🌱 I’m currently learning **Angular, JavaScript, SQL, CI/CD, React, MariaDB, PostgreSQL**
+- 🌱 I’m currently learning **Angular, Vue, SQL, CI/CD Ubuntu-GitLab, React, MariaDB, PostgreSQL**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dulcey93.github.io/Portfolio/](https://dulcey93.github.io/Portfolio/)
 
-- 💬 Ask me about **HTML, CSS, Angular, JavaScript, SQL, CI/CD, React**
+- 💬 Ask me about **Angular, React, Node, SQL, CI/CD**
 
 - 📫 How to reach me **dulcey93@outlook.com**
 
