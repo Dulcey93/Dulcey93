@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago Dulcey</h1>
-<h3 align="center">I am a Systems Engineer who works with both the front and back ends of a website or application. Provide an end-to-end service, and can be involved in projects that involve databases and building user-facing websites. Knowledge in software documentation and modeling in UML. I'm Always improving. | HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, Vue, React, Node, SQL, PostgreSQL... I'm Always improving.</h3>
+<h3 align="center">I am a Systems Engineer who works with both the front and back ends of a website or application. Provide an end-to-end service, and can be involved in projects that involve databases and building user-facing websites. Knowledge in software documentation and modeling in UML. I'm Always improving. | HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, Vue, React, Node, SQL, PostgreSQL...</h3>
 
 - 🔭 I’m currently working on **Campus Latinoamérica**
 
