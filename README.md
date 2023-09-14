@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dulcey93?tab=repositories](https://github.com/Dulcey93?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Angular, PHP, PostgreSQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, , C#, Blazor, Razor, MySQL**
 
 - 📫 How to reach me **dulcey93@outlook.com**
 
