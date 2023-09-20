@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Santiago Dulcey Ramirez</h1>
-<h3 align="center">I am a Bachelor of Computer Science and Networks who works with both the front and back ends of a website. Provide an end-to-end service, and can be involved in projects that involve databases and building user-facing websites. Knowledge in software documentation and modeling in UML. I'm Always improving. | Bootstrap, JavaScript, TypeScript, Angular, Node.js, C#, .Net6, MySQL.</h3>
+<h3 align="center">I am a Systems Engineer with a strong foundation in web development. Proficient in C# and .NET, I specialize in backend development within the .NET ecosystem, including the creation of APIs, microservices, and database migrations. My skills also extend to frontend technologies like Blazor and Razor, along with expertise in HTML, CSS, and JavaScript. I have experience working with SQL Server and MySQL databases, making me a versatile developer capable of providing end-to-end solutions. Eager to contribute my expertise to dynamic web applications. | C#, .NET, API Development, Microservices, Blazor, Razor, HTML, CSS, JavaScript, MySQL.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dulcey93" alt="dulcey93" /></a> </p>
 
