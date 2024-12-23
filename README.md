@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [SalesSystem](https://github.com/Dulcey93/SalesSystem)
 
-- 🌱 I’m currently learning **.Net6 MVC with SQL integration**
+- 🌱 I’m currently learning **Azure environments**
 
 - 👯 I’m looking to collaborate on [ASP.Net projects](https://learn.microsoft.com/es-es/aspnet/core/?WT.mc_id=dotnet-35129-website&view=aspnetcore-7.0)
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dulcey93?tab=repositories](https://github.com/Dulcey93?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, , C#, Blazor, Razor, MySQL**
+- 💬 Ask me about **.Net MVC, Azure, RESTAPIs, MySQL**
 
 - 📫 How to reach me **dulcey93@outlook.com**
 
